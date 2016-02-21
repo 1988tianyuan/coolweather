@@ -1,4 +1,6 @@
-package com.myprogram.exercise1;
+package com.coolweather.app;
+
+import com.myprogram.exercise1.R;
 
 import android.app.Activity;
 
